@@ -1,5 +1,19 @@
-div{
+.blog1{
     background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.blog2{
+    background-color: rgb(145, 3, 145);
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.blog3{
+    background-color: rgb(238, 8, 8);
     color: white;
     padding: 10px;
     margin: 10px;
